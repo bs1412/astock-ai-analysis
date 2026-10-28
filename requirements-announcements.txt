@@ -1,0 +1,9 @@
+# Optional owner-local announcement module. Verified Windows / CPython 3.14.2.
+# Use an isolated venv with python -I; transitive resolution is recorded separately.
+fastapi==0.162.0
+uvicorn==0.54.0
+langgraph==1.2.17
+langgraph-checkpoint-sqlite==3.1.2
+httpx==0.28.1
+beautifulsoup4==4.15.0
+pydantic==2.14.1
